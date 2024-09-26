@@ -1,6 +1,6 @@
-# 3D Rendering Engine
+# 3D Rendering Engine Simulator
 
-This project implements a simple 3D rendering engine designed for educational purposes. It includes essential components such as elements, geometries, primitives, a renderer, and scene management, enabling the creation and rendering of basic 3D scenes.
+This project implements a 3D rendering engine. It includes essential components such as elements, geometries, primitives, a renderer, and scene management, enabling the creation and rendering of basic 3D scenes.
 
 ## Table of Contents
 
